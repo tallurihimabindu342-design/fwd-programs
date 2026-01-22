@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ol {
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
